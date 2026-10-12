@@ -1,4 +1,4 @@
-# 🚀 Floreni Price Parser & Market Analyzer v1.0
+# 🚀 Floreni Price Parser & Market Analyzer v1.0 DEMO
 
 Instrument automatizat pentru colectarea, procesarea și analiza prețurilor concurenților.
 
