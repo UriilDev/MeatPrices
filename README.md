@@ -1,5 +1,32 @@
 # 🚀 Floreni Price Parser & Market Analyzer v1.0
 
+Instrument automatizat pentru colectarea, procesarea și analiza prețurilor concurenților.
+
+### 📦 Instrucțiuni de lansare:
+1. Descărcați arhiva ZIP și **despachetați-o complet** într-un folder.
+2. Rulați fișierul **`Floreni.exe`**.
+
+> ⚠️ **Important:** Folderele `_internal` și `data` trebuie să se afle în același director cu `Floreni.exe` pentru o funcționare corectă.
+
+---
+
+### 📂 Structura fișierelor:
+* **`Floreni.exe`** — aplicația principală.
+* **`_internal/`** — dependențe și biblioteci de sistem.
+* **`data/`** — fișiere de configurare și folder pentru salvarea rezultatelor.
+
+---
+
+### ✨ Funcționalități cheie:
+* Colectarea și structurarea automată a datelor despre prețuri.
+* Rulare autonomă pe Windows fără instalarea mediului Python.
+* Export rapid al datelor obținute.
+
+---
+---
+
+# 🚀 Floreni Price Parser & Market Analyzer v1.0 (Версия на русском)
+
 Автоматизированный инструмент для парсинга, сбора и анализа цен конкурентов.
 
 ### 📦 Инструкция по запуску:
