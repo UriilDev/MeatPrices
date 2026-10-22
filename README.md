@@ -1,4 +1,4 @@
-# 🚀 Floreni Price Parser & Market Analyzer v1.0 DEMO
+# 🚀 Meat Price Parser & Market Analyzer v1.0 DEMO
 
 > 📥 **CUM SĂ DESCĂRCAȚI / КАК СКАЧАТЬ:**
 >
